@@ -1,10 +1,15 @@
+# My Portfolio
+
+Built with React.jsjavascript component library. This allows me to split the UI elements into independent "props."
+This modular stlye greatly simplifies the UI/UX development process and makes them easily reusable. Each component will can be rendered independently into the React DOM, without affecting the other elements.
+
+# Inspiration
+Rather than start building from scratch, i started with a template from https://colorlib.com/preview/#jackson
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
